@@ -1,0 +1,25 @@
+{
+  "name": "rem-loader",
+  "version": "1.0.0",
+  "description": "webpack rem-loader",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "webpack-loader",
+    "rem-loader",
+    "webpack px2rem"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamiota/rem-loader.git",
+    "web": "https://github.com/iamiota/rem-loader.git"
+  },
+  "author": {
+    "name": "Iota"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "readme": ""
+}
