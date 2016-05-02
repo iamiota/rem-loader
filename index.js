@@ -10,7 +10,7 @@ module.exports = function (source, map) {
 	}
 	function convert(content){
 		var res = content;
-		var regex = new RegExp('([0-9]+?)'+ opts.pm ,'gi');
+		var regex = new RegExp('(-?[0-9]*[.]?[0-9]+?)'+ opts.pm ,'gi');
 		res = res.replace(regex, function($0, $1) {
 			/**
 			 * 这里需要Fixed一下

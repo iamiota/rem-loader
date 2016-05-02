@@ -1,6 +1,6 @@
 {
   "name": "rem-loader",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "webpack rem-loader",
   "main": "index.js",
   "scripts": {
